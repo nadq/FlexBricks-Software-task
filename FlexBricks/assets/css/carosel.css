@@ -1,0 +1,19 @@
+
+
+#carosel .owl-carousel .item img{
+	width: auto;
+	height: 400px; 
+}
+#carosel .owl-carousel .inner-item{z-index: 3}
+#carosel .owl-carousel .inner-item img{
+	width: 200px;
+	height: 100px; 
+}
+ #carosel .slider-fix {
+	position: absolute ;
+    top: auto ;
+    right: 0 ;
+    bottom: 17px ;
+    left: 0 ;
+    margin: 0 auto ;
+}

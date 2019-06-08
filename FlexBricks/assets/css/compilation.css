@@ -1,0 +1,96 @@
+/* Fecond form 'films'*/
+.compilation .col-lg-12{margin-top: 30px;}
+.compilation h2{
+	font-family: 'latoregular';
+	font-size: 36px;
+	color: #303030;
+	text-align: left;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+}
+.compilation h3{
+	font-size: 22px;
+	text-align: center;
+	font-family: 'latoregular';
+	padding: 5px 0;
+}
+.compilation .img-thumbnail:hover{
+	color: #28B8D2;
+	box-shadow: 3px 3px 5px grey;
+}
+.compilation .col-lg-8{	float: left;}
+.compilation .col-lg-3{margin: 0 12px;}
+.compilation .col-lg-3 img {
+	width:200px;
+	height:180px;
+}
+/* Second form 'news'*/
+/* from bootstrap*/
+.compilation .img-thumbnail{
+	max-width: 201px;
+	height:250px;
+	padding: 0 !important;
+	border-radius: 0px;
+	border-bottom: 1.5px solid grey; 
+	margin-bottom: 5px;
+}
+.compilation .aside-list{
+	background: #f2f2f2;
+}
+.compilation .col-lg-4{	float: right;}
+.compilation h4{
+	font-size: 26px;
+	padding: 30px 0; }
+
+/*.compilation svg ellipse {
+	fill:yellow;stroke:#28B8D2;stroke-width:2
+}*/
+.compilation .col-lg-4 p {
+	font-size: 14px;
+	color: #999;
+	font-family: 'latoregular';
+}
+.compilation .col-lg-4 h2,
+.compilation .col-lg-4 h4{
+	text-transform: none !important;
+}
+.compilation .col-lg-4 h3{
+	color:#1a1a1a;
+	padding-bottom: 25px
+}
+/* removed form 'reset.css'*/
+.compilation .col-lg-4 ol{ 
+	list-style-type: decimal;
+	margin:10px 60px ;
+	padding-bottom: 25px;
+}
+.compilation .col-lg-4 ol li{margin-bottom: 9px;  }
+.compilation .col-lg-4 ol li a{
+	text-decoration: none;
+	font-family: 'latoregular';
+	font-size: 16px;
+	color: #1a1a1a;
+}
+.aside-news{
+	margin-top: 50px;
+	background: #f2f2f2;}
+.aside-news	h2,
+.aside-news	p,
+.aside-news	h3,
+.compilation h4{
+	margin-left: 40px;
+	text-align: justify !important;
+}
+.aside-news	h3{	margin-top:12px;}
+.compilation .page-nav > .col-lg-8{
+	margin:15px auto;
+	display: block;
+	background: #f2f2f2;
+}
+.compilation .col-lg-4 ol li a:hover,
+.compilation .col-lg-4 ol li a:focus,
+.compilation .col-lg-4 ol li a:visited,
+{
+	text-decoration: none;
+	color: : #27b8d1;	
+}

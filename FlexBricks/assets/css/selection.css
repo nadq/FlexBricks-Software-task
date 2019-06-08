@@ -1,0 +1,71 @@
+/*section .container-fluid{
+	margin: 10px !important;
+}*/
+
+section h1{
+	font-family: 'latoregular';
+	font-size: 36px;
+	color: #303030;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 30px;
+	margin-bottom: 10px;
+}
+section p{
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+section h3{
+	padding-top: 15px;
+	font-family: 'latoregular';
+	font-size: 24px;
+	color: #303030;
+	text-align: center;
+}
+section .col-lg-3{margin: 0 12px;}
+section .col-lg-3 img {
+	width:420px;
+	height:500px;
+}
+/* from bootstrap*/
+section .img-thumbnail{
+	max-width: 421px;
+	height: 600px;
+	padding: 0 !important;
+	border-radius: 0px;
+	border-bottom: 1.5px solid grey; 
+	position: relative;
+
+}
+section button{
+	background:#28B8D2 ;
+	border-radius: 20px;
+	border:none;
+	height: 30px;
+	width: 150px;
+	position: absolute;
+	top: auto;
+	right: 0;
+	bottom: 10px;
+	left: 0;
+	margin:0 auto;
+}
+section button a{
+	color:#fff;
+	font-family: 'latoregular';
+
+}
+section button:hover{
+	background: #595959;
+	transition: 0.3s;
+	color: #fff;
+}
+section button a:hover,
+section button a:focus,
+section button a:visited{
+	text-decoration: none;
+	color: #fff;
+}

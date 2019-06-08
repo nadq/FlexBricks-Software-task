@@ -1,0 +1,23 @@
+.compilation .page-nav > .col-lg-8 button{
+	background: #fff;
+	height: 40px;
+	width: 35px;
+	border-radius: 7px;
+	border:3px solid #d0d0d0;
+	transition: 0.3s;
+}
+.compilation .page-nav > .col-lg-8 button:hover{
+
+	box-shadow:3px 3px 15px #bdbdbd;
+}
+.compilation .page-nav > .col-lg-8 button a{
+	font-family: 'latoregular';
+	font-size: 19px;
+	color:#000;
+}
+.compilation .page-nav > .col-lg-8 button a:hover,
+.compilation .page-nav > .col-lg-8 button a:focus,
+.compilation .page-nav > .col-lg-8 button a:visited{
+	text-decoration: none;
+	color:#000;
+}
